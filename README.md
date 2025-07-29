@@ -2,8 +2,7 @@
 
 A simple desktop GUI for clipping and downloading sections of YouTube videos using yt-dlp.
 
-![Screenshot of Video Clipper](https://github.com/Guanaco-dev/video-clipper-gui/blob/main/icon.png)
-*(Tip: Replace the icon above with a real screenshot of your application running!)*
+![Screenshot of Video Clipper](./screenshot.png)
 
 ## Features
 
@@ -23,10 +22,10 @@ This application requires `yt-dlp` and `ffmpeg` to be installed on your system.
 ## Installation & Usage
 
 1.  Go to the [**Releases Page**](https://github.com/Guanaco-dev/video-clipper-gui/releases).
-2.  Download the latest `Video_Clipper-x86_64.AppImage` file.
+2.  Download the latest `VideoClipper-x86_64.AppImage` file.
 3.  Make the file executable. You can do this in your file manager (Right-click -> Properties -> Permissions -> Allow executing) or in the terminal:
     ```bash
-    chmod +x Video_Clipper-x86_64.AppImage
+    chmod +x VideoClipper-x86_64.AppImage
     ```
 4.  Double-click the AppImage to run! For the best experience, install [AppImageLauncher](https://github.com/TheAssassin/AppImageLauncher/wiki) to automatically integrate it into your application menu.
 
