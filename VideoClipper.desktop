@@ -1,0 +1,9 @@
+[Desktop Entry]
+Version=1.0
+Name=Video Clipper
+Comment=Clip and download parts of YouTube videos
+Exec=VideoClipper
+Icon=videoclipper
+Terminal=false
+Type=Application
+Categories=AudioVideo;
